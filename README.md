@@ -3,6 +3,7 @@ API 출처 : https://developer.themoviedb.org/reference/intro/getting-started
 
 ### 추후 계획 
 * 멘토님 피드백 기반 수정
+* 배포
 * 장르별 검색 기능 추가
 * css 직관적으로 다듬기
 * 국가, 출연배우 정보 추가
