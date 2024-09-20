@@ -2,10 +2,11 @@
   "name": "movie-info-with-vanillajs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "old_0812_api_hw/Performance_Info.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "your_build_command_here"
+    "start": "live-server --port=8080 --entry-file=./old_0812_api_hw/Performance_Info.html",
+    "build": "echo \"No build step specified\""
   },
   "keywords": [],
   "author": "",
