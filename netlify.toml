@@ -1,4 +1,10 @@
+[build]
+  publish = "./" # 프로젝트 루트 디렉토리를 Publish Directory로 설정
+
 [[redirects]]
-from = "/*"
-to = "/index.html"
-status = 200
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[build.environment]
+  GO_VERSION = "1.19.5" # 정확한 Go 버전 지정
